@@ -1,2 +1,2 @@
 # curriculo_b
-Este repositório é dedicado ao desafio da aula 28, para adicionar seu currículo crie uma nova branch. 
+Repositório dedicado ao desafio da aula 28, lembre-se de criar uma branch para fazer novas implementações.
