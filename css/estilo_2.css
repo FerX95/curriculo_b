@@ -1,0 +1,24 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.main{
+    display: block;
+}
+
+.curriculo{
+    background-color: white;
+    width: max-content;
+    padding: 30px;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+li a{
+    font-size: 19px;
+    text-decoration: none;
+    color: steelblue;
+}
